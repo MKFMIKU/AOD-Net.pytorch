@@ -5,7 +5,7 @@ Implement of [An All-in-One Network for Dehazing and Beyond" in pytorch](https:/
 
 ## Datasets
 
-[NYU2 Depth Database] (https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) was used to 
+[NYU2 Depth Database](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) was used to 
 generated synthesized hazy images.
 
 ## Train
